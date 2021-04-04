@@ -1,5 +1,27 @@
-# html-starter
+# Advertisment Challenge Instructions 
 
-1. Click "Use this template"
-2. Give it a new repository name for your purposes, Github will create a new repo on your account with this starter code
-3. Navigate to your Github profile, locate your new repo and clone it to your local directory
+### Use your knwoledge of HTML & CSS to build a webiste that advertises your challenge product 
+
+#### Your website should include a variety of 
+1. Different HTML elements:
+- Headers
+- images
+- links
+- paragraphs
+- lists 
+- tables 
+
+2. Variety of CSS Styling: 
+- font-family
+- background-color
+- background-image
+- font-size
+- text-align
+- text-shadow
+- border
+- border-radius
+- padding 
+
+**Use classes and IDs appropriately to select different html elements when styling** 
+
+
